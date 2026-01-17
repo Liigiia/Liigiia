@@ -1,5 +1,11 @@
-# 💫 About Me:
-Heisann! <br><br>Mitt navn er Ligia og jeg er en 2. års dataingeniørstudent ved USN. <br>Jeg er relativ ny på gitHub og bruker det for det meste til å kode og <br>dele små prosjekter jeg jobber med ved siden av studiene. <br><br>Målet er å lære mer underveis og gradvis bli bedre på problemløsning og <br>god kodepraksis. <br><br>Jeg håper å kunne legge ut mer kode og flere prosjekter her i fremtiden.<br><br>Bare å ta kontakt dersom det skulle være evt spms : )
+# 💫 Hi, my name is Ligia:
+I'm a 2nd year CS student at The University of Southern-Eastern Norway (USN). I'm relatively new to gitHub and mostly use it to code and share small projects I am working on alongside my studies.
+The goal is to learn more along the way and gradually get better at problem solving and
+good coding practices.
+
+I hope to be able to post more code and more projects here in the future.
+
+Don't hesitate to get in touch if there are any questions : )
 
 
 ## 🌐 Socials:
